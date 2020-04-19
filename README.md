@@ -6,6 +6,6 @@ If you like to see the demo [Go here](http://jaffery97.github.io/NeuMorphism_log
 
 ### Download 
 
-If you like to get the souce code [Go Download](http://jaffery97.github.io/NeuMorphism_login) to learn more about code.
+If you like to get the souce code [Go Download](https://github.com/jaffery97/NeuMorphism_login/archive/master.zip) to learn more about code.
 
 
